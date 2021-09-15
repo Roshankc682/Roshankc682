@@ -23,6 +23,6 @@
 </p>
 
 ## Portfolio Site
-<a href="https://codie-portfolio.herokuapp.com/">PortFolio Site</a>
+<a href="https://codie-portfolio.herokuapp.com/" target="_blank">PortFolio Site</a>
 ## My resume
 [Roshan K K.C Resume.pdf](https://github.com/Roshankc682/Resume_Collection/blob/main/Developer%20Resume.pdf)
