@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **kcroshan682@gmail.com**
 
-- 📄 Know about my experiences [Roshan K K.C Resume.pdf]([https://github.com/Roshankc682/Resume_Collection/blob/main/My%20Resume.pdf](https://github.com/Roshankc682/Resume_Collection/blob/main/Roshan_Kc_Resume.pdf))
+- 📄 Know about my experiences [Roshan K K.C Resume.pdf](https://github.com/Roshankc682/Resume_Collection/blob/main/Roshan_Kc_Resume.pdf)
 
 - ⚡ Fun fact **I think I Will Go To Mars Soon**
 
